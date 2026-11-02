@@ -4,7 +4,8 @@
 To design and implement a LangChain Expression Language (LCEL) expression that utilizes at least two prompt parameters and three key components (prompt, model, and output parser), and to evaluate its functionality by analyzing relevant examples of its application in real-world scenarios.
 
 ## PROBLEM STATEMENT:
-To create an LCEL chain that accepts two inputs and generates meaningful responses using a language model.
+
+To develop an AI-based career guidance system using LangChain Expression Language (LCEL). The system takes two inputs from the user, such as career choice and personal skill, and generates suitable career suggestions. It uses three components: Prompt Template, Language Model and Output Parser. These components are connected using the pipe (|) operator. The system helps users understand which skills to learn, what topics to study and which projects to practice based on their interests.
 
 ## DESIGN STEPS:
 
